@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Dawn of Shadow.sln"
+    "dotnet.defaultSolution": "Dawn-of-Shadow.sln"
 }
