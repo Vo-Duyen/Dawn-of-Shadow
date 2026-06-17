@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39f2bc47ff1b51c4388238fd479ce223, type: 3}
+  m_Name: GameDataEditorTool
+  m_EditorClassIdentifier: 
+  gold: 0
+  hearts: 5
+  selectedCharacterId: hero_01
+  unlockedCharacterIds:
+  - hero_01
+  hpUpgradeLevel: 4
+  defUpgradeLevel: 0
+  manaUpgradeLevel: 0
+  hasInProgressGame: 1
+  currentStage: 1
+  currentSubLevel: 1
+  currentDifficulty: Medium
+  musicVolume: 0.59867024
+  sfxVolume: 0.5905218
+  graphicQuality: 2
